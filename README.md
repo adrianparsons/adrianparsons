@@ -2,7 +2,7 @@
 
 I'm a full-stack software engineer in NYC. I'm especially interested in tooling and systems!
 
-Currently hacking on [empty.nyc](https://empty.nyc) which maps vacant space in New York City with open data.
+Currently hacking on [empty.nyc](https://empty.nyc) which maps vacant space in New York City. I also post photos to [adrian.photos](https://adrian.photos/)
 
 In the past, I
 - Had a blast completing a batch at the [Recurse Center](https://recurse.com/)
